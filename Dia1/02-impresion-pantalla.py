@@ -18,3 +18,5 @@ print("los alumnos son {0} y son del grupo {0} y todos estan atentos". format(gr
 
 print(f"los alumnos son {alumnos}")
 
+
+sdfsdf
