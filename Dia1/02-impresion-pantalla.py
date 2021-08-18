@@ -18,4 +18,6 @@ print("los alumnos son {0} y son del grupo {0} y todos estan atentos". format(gr
 
 print(f"los alumnos son {alumnos}")
 
-
+numero1=10 
+numero2=80
+print("La maultiplicacion de {0} y  {1} es: {2}". format(numero1, numero2, numero1* numero2))
