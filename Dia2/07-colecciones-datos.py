@@ -83,3 +83,21 @@ persona['nacionalidad']='peruano'
 print(persona["edad"])
 print(persona)
 print(persona['hobbies'][0]['nombre'])
+
+# imprimir el primer hobby de la presona
+# Volar dornes
+print(persona['hobbies'][0])
+
+# forma de extraer solamente los valores
+print(persona.keys())
+
+# forma de extraer solamente los valores
+print(persona.values())
+persona.clear()
+print(persona)
+# CONJUTNOS
+# coleccion de datos desordenadam quye una vez que creamos no poodremos acceder a sus poosiciones
+
+
+
+
